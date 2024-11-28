@@ -17,4 +17,4 @@ else
   puts "🤔 Não entendi sua resposta, #{nome}."
 end
 
-dei muitos residas kkkkkkkk. 
+dei muitos residas kkkkkkkk.
