@@ -1,3 +1,4 @@
+
 Nesse código abaixo : É simulação de um pedido de casamento.
 
 print "Qual é o seu nome? "
@@ -16,4 +17,4 @@ else
   puts "🤔 Não entendi sua resposta, #{nome}."
 end
 
-dei muitos residas kkkkkkkk
+dei muitos residas kkkkkkkk. 
