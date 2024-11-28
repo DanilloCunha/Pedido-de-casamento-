@@ -1,4 +1,4 @@
-Nesse código abaixo:
+Nesse código abaixo : É simulação de um pedido de casamento.
 
 print "Qual é o seu nome? "
 nome = gets.chomp
@@ -15,3 +15,5 @@ elsif resposta == "não"
 else
   puts "🤔 Não entendi sua resposta, #{nome}."
 end
+
+dei muitos residas kkkkkkkk
