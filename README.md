@@ -1,5 +1,6 @@
 
 Nesse código abaixo : É simulação de um pedido de casamento.
+Para evitar o frio na barriga kkk
 
 print "Qual é o seu nome? "
 nome = gets.chomp
